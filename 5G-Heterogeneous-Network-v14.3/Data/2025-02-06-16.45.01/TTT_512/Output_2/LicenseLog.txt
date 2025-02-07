@@ -1,0 +1,21 @@
+Gathering license information
+Server = 5053@192.168.0.4
+Version type = pro
+Lock type = rlm_hw
+Version = 14.3
+Checking for all license
+License for all is received
+Checking for add-on licenses
+Checking for 100 license
+License received for 100
+Checking for 101 license
+License received for 101
+Checking for 102 license
+License received for 102
+Checking for 103 license
+
+Checking for 104 license
+
+
+Time taken is 0
+Installing heart-beat.
