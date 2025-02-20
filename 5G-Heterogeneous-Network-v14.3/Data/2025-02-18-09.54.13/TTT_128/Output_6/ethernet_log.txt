@@ -1,0 +1,367 @@
+Device 2, Port 2: Setting port state as Forwarding
+
+Device 3, Port 2: Setting port state as Forwarding
+
+Device 7, Port 2: Setting port state as Forwarding
+
+Device 8, Port 1: Setting port state as Forwarding
+
+Device 9, Port 1: Setting port state as Forwarding
+
+Device 9, Port 3: Setting port state as Forwarding
+
+Device 10, Port 1: Setting port state as Forwarding
+
+Device 10, Port 3: Setting port state as Forwarding
+
+Device 11, Port 1: Setting port state as Forwarding
+
+Device 11, Port 3: Setting port state as Forwarding
+
+Device 12, Port 1: Setting port state as Forwarding
+
+Device 12, Port 3: Setting port state as Forwarding
+
+Device 13, Port 1: Setting port state as Forwarding
+
+Device 13, Port 3: Setting port state as Forwarding
+
+Device 14, Port 1: Setting port state as Forwarding
+
+Device 14, Port 3: Setting port state as Forwarding
+
+Device 15, Port 1: Setting port state as Forwarding
+
+Device 15, Port 3: Setting port state as Forwarding
+
+Device 16, Port 1: Setting port state as Forwarding
+
+Device 16, Port 3: Setting port state as Forwarding
+
+Device 17, Port 1: Setting port state as Forwarding
+
+Device 17, Port 3: Setting port state as Forwarding
+
+Device 18, Port 1: Setting port state as Forwarding
+
+Device 18, Port 3: Setting port state as Forwarding
+
+Device 19, Port 1: Setting port state as Forwarding
+
+Device 19, Port 3: Setting port state as Forwarding
+
+Device 20, Port 1: Setting port state as Forwarding
+
+Device 20, Port 3: Setting port state as Forwarding
+
+Device 21, Port 1: Setting port state as Forwarding
+
+Device 21, Port 3: Setting port state as Forwarding
+
+Device 22, Port 1: Setting port state as Forwarding
+
+Device 22, Port 3: Setting port state as Forwarding
+
+Device 23, Port 1: Setting port state as Forwarding
+
+Device 23, Port 3: Setting port state as Forwarding
+
+Device 24, Port 1: Setting port state as Forwarding
+
+Device 24, Port 3: Setting port state as Forwarding
+
+Device 25, Port 1: Setting port state as Forwarding
+
+Device 25, Port 3: Setting port state as Forwarding
+
+Device 26, Port 1: Setting port state as Forwarding
+
+Device 26, Port 3: Setting port state as Forwarding
+
+Device 27, Port 1: Setting port state as Forwarding
+
+Device 27, Port 3: Setting port state as Forwarding
+
+Device 28, Port 1: Setting port state as Forwarding
+
+Device 28, Port 3: Setting port state as Forwarding
+
+Device 29, Port 1: Setting port state as Forwarding
+
+Device 29, Port 3: Setting port state as Forwarding
+
+Device 30, Port 1: Setting port state as Forwarding
+
+Device 30, Port 3: Setting port state as Forwarding
+
+Device 31, Port 1: Setting port state as Forwarding
+
+Device 31, Port 3: Setting port state as Forwarding
+
+Device 32, Port 1: Setting port state as Forwarding
+
+Device 32, Port 3: Setting port state as Forwarding
+
+Device 33, Port 1: Setting port state as Forwarding
+
+Device 33, Port 3: Setting port state as Forwarding
+
+Device 34, Port 1: Setting port state as Forwarding
+
+Device 34, Port 3: Setting port state as Forwarding
+
+Device 35, Port 1: Setting port state as Forwarding
+
+Device 35, Port 3: Setting port state as Forwarding
+
+Device 36, Port 1: Setting port state as Forwarding
+
+Device 36, Port 3: Setting port state as Forwarding
+
+Device 37, Port 1: Setting port state as Forwarding
+
+Device 37, Port 3: Setting port state as Forwarding
+
+Device 38, Port 1: Setting port state as Forwarding
+
+Device 38, Port 3: Setting port state as Forwarding
+
+Device 39, Port 1: Setting port state as Forwarding
+
+Device 39, Port 3: Setting port state as Forwarding
+
+Device 40, Port 1: Setting port state as Forwarding
+
+Device 40, Port 3: Setting port state as Forwarding
+
+Device 41, Port 1: Setting port state as Forwarding
+
+Device 41, Port 3: Setting port state as Forwarding
+
+Device 42, Port 1: Setting port state as Forwarding
+
+Device 42, Port 3: Setting port state as Forwarding
+
+Device 43, Port 1: Setting port state as Forwarding
+
+Device 43, Port 3: Setting port state as Forwarding
+
+Device 44, Port 1: Setting port state as Forwarding
+
+Device 44, Port 3: Setting port state as Forwarding
+
+Device 45, Port 1: Setting port state as Forwarding
+
+Device 45, Port 3: Setting port state as Forwarding
+
+Device 46, Port 1: Setting port state as Forwarding
+
+Device 46, Port 3: Setting port state as Forwarding
+
+Device 47, Port 1: Setting port state as Forwarding
+
+Device 47, Port 3: Setting port state as Forwarding
+
+Device 48, Port 1: Setting port state as Forwarding
+
+Device 48, Port 3: Setting port state as Forwarding
+
+Device 49, Port 1: Setting port state as Forwarding
+
+Device 49, Port 3: Setting port state as Forwarding
+
+Device 50, Port 1: Setting port state as Forwarding
+
+Device 50, Port 3: Setting port state as Forwarding
+
+Device 51, Port 1: Setting port state as Forwarding
+
+Device 51, Port 3: Setting port state as Forwarding
+
+Device 52, Port 1: Setting port state as Forwarding
+
+Device 52, Port 3: Setting port state as Forwarding
+
+Device 53, Port 1: Setting port state as Forwarding
+
+Device 53, Port 3: Setting port state as Forwarding
+
+Device 54, Port 1: Setting port state as Forwarding
+
+Device 54, Port 3: Setting port state as Forwarding
+
+Device 55, Port 1: Setting port state as Forwarding
+
+Device 55, Port 3: Setting port state as Forwarding
+
+Device 56, Port 1: Setting port state as Forwarding
+
+Device 56, Port 3: Setting port state as Forwarding
+
+Starting SPT protocol for device 4, LAN 1
+Stating SPT for LAN 0
+Port 1, Setting status as Forwarding
+Port 2, Setting status as Forwarding
+Port 3, Setting status as Forwarding
+Port 4, Setting status as Forwarding
+Port 5, Setting status as Forwarding
+Port 6, Setting status as Forwarding
+Port 7, Setting status as Forwarding
+Port 8, Setting status as Forwarding
+Port 9, Setting status as Forwarding
+Port 10, Setting status as Forwarding
+Port 11, Setting status as Forwarding
+Port 12, Setting status as Forwarding
+Port 13, Setting status as Forwarding
+Port 14, Setting status as Forwarding
+Port 15, Setting status as Forwarding
+Port 16, Setting status as Forwarding
+Port 17, Setting status as Forwarding
+Port 18, Setting status as Forwarding
+Port 19, Setting status as Forwarding
+Port 20, Setting status as Forwarding
+Port 21, Setting status as Forwarding
+Port 22, Setting status as Forwarding
+Port 23, Setting status as Forwarding
+Port 24, Setting status as Forwarding
+Port 25, Setting status as Forwarding
+Port 26, Setting status as Forwarding
+Port 27, Setting status as Forwarding
+Port 28, Setting status as Forwarding
+Port 29, Setting status as Forwarding
+Port 30, Setting status as Forwarding
+Port 31, Setting status as Forwarding
+Port 32, Setting status as Forwarding
+Port 33, Setting status as Forwarding
+Port 34, Setting status as Forwarding
+Port 35, Setting status as Forwarding
+Port 36, Setting status as Forwarding
+Port 37, Setting status as Forwarding
+Port 38, Setting status as Forwarding
+Port 39, Setting status as Forwarding
+Port 40, Setting status as Forwarding
+Port 41, Setting status as Forwarding
+Port 42, Setting status as Forwarding
+Port 43, Setting status as Forwarding
+Port 44, Setting status as Forwarding
+Port 45, Setting status as Forwarding
+Port 46, Setting status as Forwarding
+Port 47, Setting status as Forwarding
+Port 48, Setting status as Forwarding
+Port 49, Setting status as Forwarding
+Starting as root
+Root Id = 1155D00004001
+Sending config BPDU
+Root Id = 1155D00004001, Root path cost = 19, Bridge Id = 1155D00004001
+
+Starting SPT protocol for device 5, LAN 1
+Stating SPT for LAN 0
+Port 1, Setting status as Forwarding
+Port 2, Setting status as Forwarding
+Port 3, Setting status as Forwarding
+Port 4, Setting status as Forwarding
+Port 5, Setting status as Forwarding
+Port 6, Setting status as Forwarding
+Port 7, Setting status as Forwarding
+Port 8, Setting status as Forwarding
+Port 9, Setting status as Forwarding
+Port 10, Setting status as Forwarding
+Port 11, Setting status as Forwarding
+Port 12, Setting status as Forwarding
+Port 13, Setting status as Forwarding
+Port 14, Setting status as Forwarding
+Port 15, Setting status as Forwarding
+Port 16, Setting status as Forwarding
+Port 17, Setting status as Forwarding
+Port 18, Setting status as Forwarding
+Port 19, Setting status as Forwarding
+Port 20, Setting status as Forwarding
+Port 21, Setting status as Forwarding
+Port 22, Setting status as Forwarding
+Port 23, Setting status as Forwarding
+Port 24, Setting status as Forwarding
+Port 25, Setting status as Forwarding
+Port 26, Setting status as Forwarding
+Port 27, Setting status as Forwarding
+Port 28, Setting status as Forwarding
+Port 29, Setting status as Forwarding
+Port 30, Setting status as Forwarding
+Port 31, Setting status as Forwarding
+Port 32, Setting status as Forwarding
+Port 33, Setting status as Forwarding
+Port 34, Setting status as Forwarding
+Port 35, Setting status as Forwarding
+Port 36, Setting status as Forwarding
+Port 37, Setting status as Forwarding
+Port 38, Setting status as Forwarding
+Port 39, Setting status as Forwarding
+Port 40, Setting status as Forwarding
+Port 41, Setting status as Forwarding
+Port 42, Setting status as Forwarding
+Port 43, Setting status as Forwarding
+Port 44, Setting status as Forwarding
+Port 45, Setting status as Forwarding
+Port 46, Setting status as Forwarding
+Port 47, Setting status as Forwarding
+Port 48, Setting status as Forwarding
+Port 49, Setting status as Forwarding
+Starting as root
+Root Id = 1155D00005001
+Sending config BPDU
+Root Id = 1155D00005001, Root path cost = 19, Bridge Id = 1155D00005001
+
+Starting SPT protocol for device 6, LAN 1
+Stating SPT for LAN 0
+Port 1, Setting status as Forwarding
+Port 2, Setting status as Forwarding
+Port 3, Setting status as Forwarding
+Port 4, Setting status as Forwarding
+Port 5, Setting status as Forwarding
+Port 6, Setting status as Forwarding
+Port 7, Setting status as Forwarding
+Port 8, Setting status as Forwarding
+Port 9, Setting status as Forwarding
+Port 10, Setting status as Forwarding
+Port 11, Setting status as Forwarding
+Port 12, Setting status as Forwarding
+Port 13, Setting status as Forwarding
+Port 14, Setting status as Forwarding
+Port 15, Setting status as Forwarding
+Port 16, Setting status as Forwarding
+Port 17, Setting status as Forwarding
+Port 18, Setting status as Forwarding
+Port 19, Setting status as Forwarding
+Port 20, Setting status as Forwarding
+Port 21, Setting status as Forwarding
+Port 22, Setting status as Forwarding
+Port 23, Setting status as Forwarding
+Port 24, Setting status as Forwarding
+Port 25, Setting status as Forwarding
+Port 26, Setting status as Forwarding
+Port 27, Setting status as Forwarding
+Port 28, Setting status as Forwarding
+Port 29, Setting status as Forwarding
+Port 30, Setting status as Forwarding
+Port 31, Setting status as Forwarding
+Port 32, Setting status as Forwarding
+Port 33, Setting status as Forwarding
+Port 34, Setting status as Forwarding
+Port 35, Setting status as Forwarding
+Port 36, Setting status as Forwarding
+Port 37, Setting status as Forwarding
+Port 38, Setting status as Forwarding
+Port 39, Setting status as Forwarding
+Port 40, Setting status as Forwarding
+Port 41, Setting status as Forwarding
+Port 42, Setting status as Forwarding
+Port 43, Setting status as Forwarding
+Port 44, Setting status as Forwarding
+Port 45, Setting status as Forwarding
+Port 46, Setting status as Forwarding
+Port 47, Setting status as Forwarding
+Port 48, Setting status as Forwarding
+Starting as root
+Root Id = 1155D00006001
+Sending config BPDU
+Root Id = 1155D00006001, Root path cost = 19, Bridge Id = 1155D00006001
+
